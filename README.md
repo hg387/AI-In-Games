@@ -11,10 +11,10 @@ decision-making, strategy, content generation, and machine learning in
 games. Refer to individual projects’ README for more info.
 
 Project\#1 Description:
-https://www.cs.drexel.edu/\~santi/teaching/2017/CS387/projectSteering.html
+https://www.cs.drexel.edu/~santi/teaching/2017/CS387/projectSteering.html
 
 Project\#2 Description:
-https://www.cs.drexel.edu/\~santi/teaching/2017/CS387/projectS3.html
+https://www.cs.drexel.edu/~santi/teaching/2017/CS387/projectS3.html
 
 Project\#3 Description:
-https://www.cs.drexel.edu/\~santi/teaching/2017/CS387/PCG/projectA4PCGv1.2.2.html
+https://www.cs.drexel.edu/~santi/teaching/2017/CS387/PCG/projectA4PCGv1.2.2.html
