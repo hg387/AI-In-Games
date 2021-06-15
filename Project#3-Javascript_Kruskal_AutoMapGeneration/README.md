@@ -1,5 +1,7 @@
 README:
 
+Running Sample: https://drive.google.com/file/d/1xLczQdM42kqku-KdMo-klqhmTonGPNv7/view?usp=sharing
+
 To generate the map, run the main method of CreateMap class which exists
 under the “games/PCG/” directory. This generates a new map in the
 example game called “PCGMap.tmx”. Also, this program edits the
